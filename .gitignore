@@ -139,10 +139,13 @@ js/dist
 js/lib
 js/node_modules
 js/*.tgz
+csp_discord/extension
 
 # Jupyter
 .ipynb_checkpoints
 .autoversion
+!csp_discord/extension/csp_discord.json
+!csp_discord/extension/install.json
 csp_discord/nbextension
 csp_discord/labextension
 
