@@ -146,6 +146,7 @@ csp_discord/extension
 # Jupyter
 .ipynb_checkpoints
 .autoversion
+Untitled*.ipynb
 !csp_discord/extension/csp_discord.json
 !csp_discord/extension/install.json
 csp_discord/nbextension
