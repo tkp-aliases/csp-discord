@@ -1,4 +1,4 @@
-from csp_discord import *  # noqa
+from csp_discord import *
 
 
 def test_all():
